@@ -10,7 +10,7 @@ The module skeletons are:
 
 Use-cases that these modules explore:
 
-1. "What would we have to ask Michel Fortin" to do to PHP Markdown in order for it to drop into ZF2's modules/ directory and just work"
+1. "What would we have to ask Michel Fortin to do to PHP Markdown in order for it to drop into ZF2's modules/ directory and just work"
 2. "What does a module that only provides public/ assets look like?"
 3. "What does a standard module look like?"
 4. "What does a standard module which provides MVC-integration look like?"
